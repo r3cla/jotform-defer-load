@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 ```
 
-## 4. Add Some CSS to Handle Scrollbars
+## 4. Add Some CSS (optional, sort of)
 
 ```css
 .form-container {
