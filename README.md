@@ -20,7 +20,7 @@ Replace your current JotForm iframe with this container:
 
 ## 3. Add the Defer Loading Script
 
-Create a JavaScript file (e.g., `form-defer.js`) with this code:
+Create or add the following code to your script file:
 
 ```javascript
 document.addEventListener('DOMContentLoaded', function() {
