@@ -1,7 +1,5 @@
 # How to use
 
-If you're using JotForm on your website, you've probably noticed that it can slow down your initial page load. Here's a quick guide to defer loading your form until after the page has finished loading.
-
 ## 1. Get Your JotForm Details
 
 First, you need these details from your existing JotForm implementation:
