@@ -58,14 +58,3 @@ document.addEventListener('DOMContentLoaded', function() {
        }
    }, 2000); // 2-second delay - adjust as needed
 });
-
-/**
-* IMPORTANT: In your HTML, you need:
-* 1. A container div with the ID matching the one in this script:
-*    <div id="form-container">
-*        <div class="form-loading">Loading form...</div>
-*    </div>
-* 
-* 2. Add this script at the bottom of your HTML before the closing body tag:
-*    <script defer src="path/to/this/script.js"></script>
-*/
