@@ -1,6 +1,6 @@
 # How to use
 
-Instructions intended for someone with a solid understanding of basic web programming concepts.
+*Instructions intended for someone with a solid understanding of basic web programming concepts.*
 
 ## 1. Get Your JotForm Details
 
