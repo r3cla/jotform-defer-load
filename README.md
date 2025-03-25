@@ -1,5 +1,7 @@
 # How to use
 
+Instructions intended for someone with understanding of basic programming concepts.
+
 ## 1. Get Your JotForm Details
 
 First, you need these details from your existing JotForm implementation:
